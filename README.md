@@ -20,7 +20,7 @@ The following displays the results for Arkansas by entering "ar" in the State se
 
 ### Multiple Criteria Search
 
-Multiple criteria can be used at the same time by using 2-5 of the search fields.  The following displays the results for the state of California and the UFO shape of fireball.
+Multiple criteria can be used at the same time by using 2-5 search fields.  The following displays the results for the state of California and the UFO shape of fireball.
 
 ![CA_Fireball](https://user-images.githubusercontent.com/90982811/145758796-5ddc543a-f61a-4422-9827-914476d763cf.png)
 
@@ -28,8 +28,8 @@ Multiple criteria can be used at the same time by using 2-5 of the search fields
 
 ### Limitations
 
-The search fields do not recognize capital letters, even for the state abbreviations.  The date 1/01/2010 will not return any results since the table does not have the zero in the day, so it must be entered as 1/1/2010.  The search entries must match the information exactly as displayed in the table which may lead to inaccurate search results if the user is unaware that they did not enter the criteria exactly as listed in the table.
+The search fields do not recognize capital letters, even for state abbreviations.  The date 1/01/2010 will not return any results since the table does not have the zero in the day, so it must be entered as 1/1/2010.  The search entries must match the information exactly as displayed in the table which may lead to inaccurate search results if the user is unaware that they did not enter the criteria exactly as listed in the table.
 
 ### Recommendations
 
-To aid in the usability of the search function, I recommend allowing for the use of capitalized letters.  Including drop-down lists within the search fields will also aid users in selecting criteria, otherwise they need to scroll through the table to determine the date range or the types of UFO shapes listed.
+To aid in the usability of the search function, I recommend allowing for the use of capitalized letters.  Including drop-down lists within the search fields will also aid users in selecting criteria, otherwise they need to scroll through the table to determine the date range or the types of UFO shapes listed for example.
