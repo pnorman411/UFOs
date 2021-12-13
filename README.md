@@ -8,8 +8,7 @@ JavaScript, Bootstrap, and CSS were used to build a dynamic webpage.  A table wa
 
 The filter search was created so the user can filter on one or more search criteria.  The beginning of the table containing the UFO sighting information is displayed immediately to the right of the search filters.  This display, along with the placeholders in each search field, will aid the user in the format to use and the options available to enter the search criteria.  
 
-
-
+![Screenshot](https://user-images.githubusercontent.com/90982811/145758763-f2bd6ef4-25f8-480f-b501-ca377e515842.png)
 
 ### Single Criteria Search
 
@@ -17,13 +16,13 @@ Simply enter your search criteria in the box/es and tab to display the results. 
 
 The following displays the results for Arkansas by entering "ar" in the State search field.
 
-
+![AR](https://user-images.githubusercontent.com/90982811/145758787-de4aa158-80cb-4e07-842d-90d400f94681.png)
 
 ### Multiple Criteria Search
 
 Multiple criteria can be used at the same time by using 2-5 of the search fields.  The following displays the results for the state of California and the UFO shape of fireball.
 
-
+![CA_Fireball](https://user-images.githubusercontent.com/90982811/145758796-5ddc543a-f61a-4422-9827-914476d763cf.png)
 
 ## Summary
 
